@@ -5,5 +5,5 @@ A project for collecting, creating, and curating units of behavior for autonomou
 
 + Project Site: http://IceCreamDrone.net
 + Trello Board: https://trello.com/b/CwODhdep/icecreamdrones
-
++ Twitter: https://twitter.com/ice_cream_drone
 
